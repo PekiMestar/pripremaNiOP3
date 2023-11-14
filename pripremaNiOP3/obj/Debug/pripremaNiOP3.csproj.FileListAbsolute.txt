@@ -1,0 +1,7 @@
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\bin\Debug\pripremaNiOP3.exe.config
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\bin\Debug\pripremaNiOP3.exe
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\bin\Debug\pripremaNiOP3.pdb
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\obj\Debug\pripremaNiOP3.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\obj\Debug\pripremaNiOP3.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\obj\Debug\pripremaNiOP3.exe
+C:\Users\Gamer\source\repos\pripremaNiOP3\pripremaNiOP3\obj\Debug\pripremaNiOP3.pdb
